@@ -1,0 +1,10 @@
+C:\Users\saidj\source\repos\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\saidj\source\repos\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\saidj\source\repos\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.csproj.AssemblyReference.cache
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.Convertidor.resources
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.cache
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\saidj\source\repos\Conversion\Conversion\obj\Debug\Conversion.pdb
