@@ -1,0 +1,10 @@
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\bin\Debug\Formularioyasi.exe.config
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\bin\Debug\Formularioyasi.exe
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\bin\Debug\Formularioyasi.pdb
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.csproj.AssemblyReference.cache
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.Form1.resources
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.Properties.Resources.resources
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.csproj.GenerateResource.cache
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.csproj.CoreCompileInputs.cache
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.exe
+C:\Users\saidj\source\repos\Formularioyasi\Formularioyasi\obj\Debug\Formularioyasi.pdb
